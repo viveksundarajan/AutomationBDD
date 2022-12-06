@@ -2,11 +2,11 @@
 
 #Technologies used:
 
-  Selenium 
-  Maven 
-  TestNG 
-  Java 8
-  Cucumber
+    Selenium 
+    Maven 
+    TestNG 
+    Java 8
+    Cucumber
   
 **Browsers : **
 
